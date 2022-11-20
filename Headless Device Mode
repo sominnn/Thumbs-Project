@@ -79,5 +79,5 @@ chmod +x docker_dli_run.sh
 Jetson Nano에서 실행되는 JupyterLab 서버는 처음 로그인 프롬프트와 함께 열린다.
 2. 비밀번호를 입력한다: dlinano
 
-그러면 이 화면이 표시.
-![image](https://user-images.githubusercontent.com/102520236/202927657-1087a579-6cce-4e06-8f82-e0ad35ed9b8c.png)
+그러면 이 화면이 표시된다.
+https://github.com/sominnn/Thumbs-Project/issues/1#issue-1457060273
